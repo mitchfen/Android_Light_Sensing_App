@@ -2,11 +2,11 @@
 
 ### Overview
 Basic app that reads light sensor on a timer.  
-It also writes sensor data to a txt file.
+It also writes sensor data to a txt file.  
 Aren't light units fascinating?  
   
 ### Installation
-Clone this repository and open, and build in Android Studio.  
+Clone this repository, then open and build it in Android Studio.  
 Note that I used a linear layout and 5.5" screen for my tests, so it may look wrong on different sized devices.
 
 
