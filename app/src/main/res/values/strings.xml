@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mitch\'s Light Sensor</string>
+    <string name="noData">No Data Yet</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="information">
+        Data scrolling on the left is gathered from your device\'s light sensor.
+        \n\nThe units are lx (lux). One lux is equal to one lumen(lm) per square metre.
+        \n\nAnd 1 lm = 1 cd ⋅ sr. Where cd is "Candela" and sr is "Steradian".
+        \n\n\nWOOOO UNITS!
+    </string>
+</resources>

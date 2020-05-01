@@ -1,2 +1,2 @@
-# Android_Light_Sensing_App
+# Android Light Sensing App
 Basic app that reads light sensor on a timer.
