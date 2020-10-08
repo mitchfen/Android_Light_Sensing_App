@@ -1,4 +1,4 @@
-# Mitch's Light Sensor <img src="https://github.com/mitchfen/Android_Light_Sensing_App/blob/master/app/src/main/res/mipmap-xxhdpi/lightbulb.png" width = 40 height = 40>
+# Mitchell's Light Sensor <img src="https://github.com/mitchfen/Android_Light_Sensing_App/blob/master/app/src/main/res/mipmap-xxhdpi/lightbulb.png" width = 40 height = 40>
 
 
 ### Overview
