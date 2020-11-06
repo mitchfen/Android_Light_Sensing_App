@@ -1,2 +1,2 @@
-rootProject.name='MitchellFennerApp5'
+rootProject.name='mitchLightSensor'
 include ':app'
