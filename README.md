@@ -1,4 +1,4 @@
-# Mitchell's Light Sensor <img src="https://github.com/mitchfen/Android_Light_Sensing_App/blob/master/app/src/main/res/mipmap-xxhdpi/lightbulb.png" width = 40 height = 40>
+# Mitch's Light Sensor <img src="https://github.com/mitchfen/light_sensing_app/blob/main/app/src/main/res/mipmap-xxhdpi/lightbulb.png" width = 40 height = 40>
 
 
 ### Overview
@@ -14,4 +14,4 @@ Note that I used a linear layout and 5.5" screen for my tests, so it may look st
 
 
 ### Screen
-<img src="https://github.com/mitchfen/Android_Light_Sensing_App/blob/master/screenshots/screen3.jpg" width = 250 height = 450>
+<img src="https://github.com/mitchfen/light_sensing_app/blob/main/screenshots/screen3.jpg" width = 250 height = 450>
